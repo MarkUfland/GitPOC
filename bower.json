@@ -1,0 +1,19 @@
+{
+  "name": "GitPOC",
+  "version": "0.1.0",
+  "authors": [
+    "MarkUfland <mark.ufland@sky.com>"
+  ],
+  "description": "Testing VS Code and Git",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
